@@ -1,0 +1,7 @@
+class MyClass { 
+    void fun (int a, int b) {
+        int c;
+        c = 10 +20+30+40 ;
+        return hello;
+    }
+}
